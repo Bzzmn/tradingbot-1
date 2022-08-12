@@ -1,0 +1,21 @@
+
+#activate Venv#
+#ESQUEMA_WEBAPP_WEBHOOK\venvTdbt\Scripts\activate#
+
+#deactivate Venv#
+#ESQUEMA_WEBAPP_WEBHOOK\venvTdbt\Scripts\deactivate#
+
+#create Venv from console#
+#from project folder : "C:\Users\alvar\AppData\Local\Programs\Python\Python310\python.exe -m venv venvName"#
+
+#install requirements:  "pip3 install -r requirements.txt"#
+
+#activate flask app "$env:FLASK_APP = "app.py"" #
+#activate debug mode "$env:FLASK_ENV = "development""
+#run app "flask run"
+
+flask
+gunicorn
+python-binance
+pandas
+pymongo[srv]

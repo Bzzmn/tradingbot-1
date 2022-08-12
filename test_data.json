@@ -1,0 +1,29 @@
+{
+   
+    "timenow":"2022-07-03T02:23:30Z",
+    "exchange":"BITSTAMP",
+    "ticker":"BTCUSD",
+    "Bar":{
+        "time":"2022-07-03T02:22:00Z",
+        "volume":"0.62456175",
+        "open":"19204.84",
+        "close":"19207.76",
+        "high":"19208",
+        "low":"19204.84"
+
+    },
+    "strategy":{
+    "position_size":"0",
+    "order_action":"buy",
+    "order_contracts":"0.314993",
+    "order_price":"19207.760000000002",
+    "order_id":"Close entry(s) order Short2",
+    "comment":"StopSell",
+    "alert_message":"Tailing Stop Short!!!",
+    "market_position":"flat",
+    "market_position_size":"0",
+    "prev_market_position":"short",
+    "prev_market_position_size":"0.314993"
+    },
+    "passfrase":"adcdef"
+}
